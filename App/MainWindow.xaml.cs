@@ -20,5 +20,9 @@ namespace App
         {
             InitializeComponent();
         }
+        private void HelloButton_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Xin chào");
+        }
     }
 }

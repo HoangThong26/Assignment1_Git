@@ -7,6 +7,12 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-
+        <Button Content="Xin chào"
+        Width="160"
+        Height="50"
+            FontSize="16"
+            FontWeight="SemiBold"
+        Cursor="Hand"
+        Click="HelloButton_Click"/>
     </Grid>
 </Window>
