@@ -9,7 +9,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace git
+namespace App
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
@@ -19,16 +19,6 @@ namespace git
         public MainWindow()
         {
             InitializeComponent();
-        }
-
-        private void Hello_Click(object sender, RoutedEventArgs e)
-        {
-            MessageBox.Show("xin chào");
-        }
-
-        private void Bye_Click(object sender, RoutedEventArgs e)
-        {
-            MessageBox.Show("tạm biệt");
         }
     }
 }

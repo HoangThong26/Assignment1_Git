@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace git
+namespace App
 {
     /// <summary>
     /// Interaction logic for App.xaml
