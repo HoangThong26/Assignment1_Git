@@ -24,5 +24,11 @@ namespace App
         {
             MessageBox.Show("Xin chào");
         }
+
+        private void ByeButton_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Tạm biệt ");
+        }
+
     }
 }
