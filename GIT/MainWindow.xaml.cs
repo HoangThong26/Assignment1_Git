@@ -21,9 +21,14 @@ namespace git
             InitializeComponent();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void Hello_Click(object sender, RoutedEventArgs e)
         {
             MessageBox.Show("xin chào");
+        }
+
+        private void Bye_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("tạm biệt");
         }
     }
 }

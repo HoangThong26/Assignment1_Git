@@ -8,12 +8,19 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
 
-        <Button Content="Click me"
-  Width="120"
-  Height="40"
-  Click="Button_Click"
-  HorizontalAlignment="Center"
-  VerticalAlignment="Center"/>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+
+            <Button Content="Xin chào"
+                Width="150"
+                Height="40"
+                Click="Hello_Click"/>
+
+            <Button Content="Tạm biệt"
+                Width="150"
+                Height="40"
+                Click="Bye_Click"/>
+
+        </StackPanel>
 
     </Grid>
 </Window>
