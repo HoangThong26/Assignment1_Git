@@ -24,5 +24,11 @@ namespace Sample
         {
             MessageBox.Show("xin chào");
         }
+
+        private void BtnGoodbye_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("tạm biệt");
+        }
+
     }
 }
