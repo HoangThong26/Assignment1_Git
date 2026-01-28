@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\Assignment1_Git\\Sample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7C21675-8B9C-403D-A191-15C92F16C188}|Sample\\Sample.csproj|c:\\users\\admin\\documents\\github\\assignment1_git\\sample\\sample\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7C21675-8B9C-403D-A191-15C92F16C188}|Sample\\Sample.csproj|solutionrelative:sample\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|c:\\users\\admin\\documents\\github\\assignment1_git\\sample\\sample\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|solutionrelative:sample\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|c:\\users\\admin\\documents\\github\\assignment1_git\\sample\\sample\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|solutionrelative:sample\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +23,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Assignment1_Git\\Sample\\Sample\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Sample\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Assignment1_Git\\Sample\\Sample\\MainWindow.xaml",
+              "RelativeToolTip": "Sample\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-28T11:35:25.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Assignment1_Git\\Sample\\Sample\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Sample\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Assignment1_Git\\Sample\\Sample\\MainWindow.xaml.cs",
               "RelativeToolTip": "Sample\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T11:35:21.994Z",
               "EditorCaption": ""
