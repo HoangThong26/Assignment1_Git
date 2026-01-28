@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace Hiepln_WPF
+namespace Sample
 {
     /// <summary>
     /// Interaction logic for App.xaml

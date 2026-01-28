@@ -9,7 +9,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Hiepln_WPF
+namespace Sample
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
@@ -19,14 +19,6 @@ namespace Hiepln_WPF
         public MainWindow()
         {
             InitializeComponent();
-        }
-        private void BtnHello_Click(object sender, RoutedEventArgs e)
-        {
-            MessageBox.Show("Xin chào");
-        }
-        private void BtnBye_Click(object sender, RoutedEventArgs e)
-        {
-            MessageBox.Show("Tạm biệt");
         }
     }
 }
