@@ -20,9 +20,13 @@ namespace Hiepln_WPF
         {
             InitializeComponent();
         }
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void BtnHello_Click(object sender, RoutedEventArgs e)
         {
             MessageBox.Show("Xin chào");
+        }
+        private void BtnBye_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Tạm biệt");
         }
     }
 }
