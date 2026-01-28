@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nhat Anh\\source\\repos\\Hiepln_WPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B312CC18-5F6E-4137-BDDE-136D9839DAAE}|Hiepln_WPF\\Hiepln_WPF.csproj|c:\\users\\nhat anh\\source\\repos\\hiepln_wpf\\hiepln_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B312CC18-5F6E-4137-BDDE-136D9839DAAE}|Hiepln_WPF\\Hiepln_WPF.csproj|solutionrelative:hiepln_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nhat Anh\\source\\repos\\Hiepln_WPF\\Hiepln_WPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Hiepln_WPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Nhat Anh\\source\\repos\\Hiepln_WPF\\Hiepln_WPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Hiepln_WPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T09:11:02.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
